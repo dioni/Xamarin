@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\App.xaml</FilePath>
+      <Hash>DE-B7-1B-DD-C9-48-04-84-B3-82-BA-75-7D-A1-CC-C4</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Controls\SpeakerView.xaml</FilePath>
+      <Hash>9C-BA-C5-D1-0A-D9-78-8A-E5-17-55-F1-48-AD-2F-88</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Views\AboutView.xaml</FilePath>
+      <Hash>34-FE-3F-EA-5D-45-FD-B4-BD-A3-6B-DC-56-9B-AB-DD</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Views\GeneralView.xaml</FilePath>
+      <Hash>A7-0B-11-9B-D7-4E-35-02-D4-91-9F-75-74-AB-C0-07</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Views\MainView.xaml</FilePath>
+      <Hash>7C-C5-00-71-A9-6D-50-DD-F5-7F-C0-E2-F9-26-62-7A</Hash>
+      <Properties>
+        <string>NavigationPage.HasNavigationBar</string>
+        <string>NavigationPage.BackButtonTitle</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Views\ScheduleView.xaml</FilePath>
+      <Hash>38-93-7C-2C-57-20-81-4D-45-A5-DE-5E-13-8C-61-12</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Core\Views\TalkDetailsView.xaml</FilePath>
+      <Hash>CE-F4-FE-12-FC-C1-66-E0-DF-D6-4C-6F-2E-EB-66-16</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

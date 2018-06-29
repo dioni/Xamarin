@@ -1,0 +1,14 @@
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Api.deps.json
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Api.runtimeconfig.json
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Api.runtimeconfig.dev.json
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Api.dll
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Api.pdb
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Models.dll
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\bin\Debug\netcoreapp2.0\Evntr.Models.pdb
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.csprojAssemblyReference.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.csproj.CoreCompileInputs.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.AssemblyInfoInputs.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.AssemblyInfo.cs
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.csproj.CopyComplete
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.dll
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Api\obj\Debug\netcoreapp2.0\Evntr.Api.pdb

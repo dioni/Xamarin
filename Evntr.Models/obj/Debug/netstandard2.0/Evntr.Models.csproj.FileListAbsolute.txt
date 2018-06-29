@@ -1,0 +1,9 @@
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.deps.json
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.dll
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.pdb
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.csprojAssemblyReference.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.csproj.CoreCompileInputs.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.AssemblyInfoInputs.cache
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.AssemblyInfo.cs
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.dll
+J:\Desenvolvimento\Estudos\git\EvntrApp\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.pdb
